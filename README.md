@@ -1,40 +1,70 @@
 # Hi there, I'm Chandan Kumar! 👋
 
-🎓 I'm a 3rd-year B.Tech student specializing in Artificial Intelligence at Anurag University. I'm passionate about all things AI, especially in **NLP** and **Computer Vision**. My long-term goal is to become a **Data Scientist**, diving deep into the realms of AI to make a tangible impact.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanjarapuchandan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gangaputrachandan@email.com)
 
-- 🔭 Currently working on projects involving **deep learning, computer vision, and OpenCV**.
-- 🌱 Exploring advanced **OpenCV concepts** like `contours`, `RETR_EXTERNAL`, `CHAIN_APPROX_SIMPLE`, `getPerspectiveTransform`, and `warpPerspective`.
-- 🧠 I’m diving into **generative AI** and learning **advanced deep learning techniques** for applications like text-to-image generation.
-- 💬 Ask me about **machine learning, AI project workflows**, and **TensorFlow**.
-- 📚 Preparing for GATE DA and aiming to build a strong foundation in **DBMS**, **Data Warehousing**, and **AI fundamentals**.
+🎓 **3rd-Year B.Tech Student | AI Enthusiast | Aspiring Data Scientist**
 
----
-
-### 🛠️ Technologies & Tools
-
-- **Languages**: Python, C++, JavaScript
-- **Frameworks**: TensorFlow, Keras, OpenCV
-- **Specializations**: Computer Vision, NLP, Generative AI
-- **Frontend**: HTML, CSS, Angular
-- **Backend**: Node.js (MEAN Stack)
-- **Others**: Google Colab, Jupyter Notebook
-
-### 💡 Recent Projects
-
-- **Vehicle Number Plate Detection** - A real-time number plate detection project using **YOLOv7** and **OpenCV**.
-- **Job Searching Platform (Hiredly)** - Built a MEAN stack job search site where users can apply for jobs and employers can post jobs.
-- **Hand Gesture Recognition** - Developed a CNN-based model to classify hand gestures for intuitive gesture-based control systems.
-- **License Plate Detection Website** - Created a website that takes live video input for license plate detection and extracts the plate text using OpenCV.
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandankumar123456&show_icons=true&theme=radical)
-
-### 📫 Let's Connect!
-
-- **LinkedIn**: [Chandan Kumar](https://www.linkedin.com/in/vanjarapuchandan)
-- **Email**: gangaputrachandan@email.com
+I'm studying Artificial Intelligence at Anurag University, with a deep interest in **Natural Language Processing (NLP)**, **Computer Vision**, and **Generative AI**. My goal is to dive deep into data science and machine learning to create innovative solutions.
 
 ---
 
-Let's make an impact with AI!
+## 🔍 About Me
+
+- 🧑‍💻 **Currently Working On**: Projects in **Deep Learning**, **Computer Vision**, and **Advanced OpenCV**.
+- 🌐 **Interests**: Exploring **generative AI**, **model visualization**, and **ML engineering**.
+- 📖 **Learning**: Preparing for **GATE DA**, focused on **DBMS**, **Data Warehousing**, and **AI Fundamentals**.
+- 👨‍🏫 **Mentoring**: Enjoy teaching and sharing insights on AI and ML to beginners.
+
+---
+
+## 🛠️ Technical Skills
+
+| **Languages**           | **Frameworks/Libraries**         | **Specializations**        |
+|-------------------------|----------------------------------|----------------------------|
+| Python, C++             | TensorFlow, Keras, OpenCV        | Computer Vision, NLP, GANs |
+| HTML, CSS               | Flask, Node.js (MEAN Stack)      | Machine Learning, Deep Learning |
+
+---
+
+## 💼 Projects
+
+<details>
+  <summary><b>Vehicle Number Plate Detection</b></summary>
+  A real-time number plate detection project using **YOLOv7** and **OpenCV**. This project includes training a YOLOv7 model on Google Colab and deploying it locally for vehicle plate recognition.
+</details>
+
+<details>
+  <summary><b>Job Searching Platform (Hiredly)</b></summary>
+  Built a job search website using the MEAN stack where users can apply for jobs and employers can post job listings. The platform also includes a reporting dashboard.
+</details>
+
+<details>
+  <summary><b>Hand Gesture Recognition</b></summary>
+  Developed a CNN-based model to classify various hand gestures, enabling gesture-based control systems for applications in interactive interfaces.
+</details>
+
+<details>
+  <summary><b>License Plate Detection Website</b></summary>
+  Created a web application that processes live video input to detect license plates and extracts the text using **OpenCV** and **OCR** integration.
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandankumar123456&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandankumar123456&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
+</p>
+
+---
+
+## 📫 Connect with Me!
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanjarapuchandan)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gangaputrachandan@email.com)
+
+---
+
+Let's collaborate and innovate with AI!
