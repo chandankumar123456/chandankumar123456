@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanjarapuchandan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gangaputrachandan@email.com)
 
-🎓 **3rd-Year B.Tech Student | AI Enthusiast | Aspiring Data Scientist**
+🎓 **Final-Year B.Tech Student | AI Enthusiast | Aspiring Data Scientist**
 
 I'm studying Artificial Intelligence at Anurag University, with a deep interest in **Natural Language Processing (NLP)**, **Computer Vision**, and **Generative AI**. My goal is to dive deep into data science and machine learning to create innovative solutions.
 
