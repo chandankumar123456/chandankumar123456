@@ -5,7 +5,7 @@
 
 🎓 **Final-Year B.Tech Student | AI Enthusiast | Aspiring Data Scientist**
 
-I'm studying Artificial Intelligence at Anurag University, with a deep interest in **Natural Language Processing (NLP)**, **Computer Vision**, and **Generative AI**. My goal is to dive deep into data science and machine learning to create innovative solutions.
+My goal is to dive deep into data science and machine learning to create innovative solutions.
 
 ---
 
