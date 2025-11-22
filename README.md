@@ -130,8 +130,6 @@ Deep learning model for detecting misinformation using transformer-based NLP.
 
 I'm always open to collaborating on AI projects, especially those involving agents, RAG, or multimodal systems. If you're building something interesting, let's talk!
 
-**📧 Email:** [Your Email](gangaputrachandan@gmail.com)
-**💼 LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/vanjarapuchandan/)
 **🌐 Portfolio:** [chandankumar123456.github.io](https://chandankumar123456.github.io)
 
 ---
