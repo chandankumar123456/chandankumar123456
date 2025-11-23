@@ -15,7 +15,7 @@
 
 B.Tech AI student specializing in building production-ready intelligent systems that combine NLP, Computer Vision, RAG, and autonomous agents. I turn complex AI concepts into deployable applications — fast prototyping with production-grade architecture.
 
-**Currently:** Open to Full-Time AI/ML Engineer roles | Graduating 2025  
+**Currently:** Open to Full-Time AI/ML Engineer roles | Graduating 2026  
 **Location:** Hyderabad, India  
 **Expertise:** Agentic AI, Multimodal Systems, Backend APIs
 
