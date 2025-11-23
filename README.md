@@ -130,7 +130,7 @@ Deep learning model for detecting misinformation using transformer-based NLP.
 
 I'm always open to collaborating on AI projects, especially those involving agents, RAG, or multimodal systems. If you're building something interesting, let's talk!
 
-**🌐 Portfolio:** [chandankumar123456.github.io](https://chandankumar123456.github.io)
+**🌐 Portfolio:** [chandan-ai.app](https://chandan-ai.app)
 
 ---
 
